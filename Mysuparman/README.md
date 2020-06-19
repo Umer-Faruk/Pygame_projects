@@ -1,6 +1,6 @@
-#Mysuparman:
+Mysuparman:
 
-#simple 2d game 
+simple 2d game 
 
 ##how to play:
 download .zip file, present in  dist/MySuparman.zip
