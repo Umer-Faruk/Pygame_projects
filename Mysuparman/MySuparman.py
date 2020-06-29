@@ -123,8 +123,8 @@ while not over:
         w += 50
    
 
-    message("1:valume ++",(255,255,255),0,0)
-    message("2:valume --",(255,255,255),0,100)
+    message("1:volume ++",(255,255,255),0,0)
+    message("2:volume --",(255,255,255),0,100)
     message("Score:", (255, 255, 51), 0, 200)
     score += 1
     message(str(score), (255, 255, 255), 300, 200)
